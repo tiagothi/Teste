@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622419318 source:c:\users\samsung\desktop\programas code blocks 2021\cadastro dados pessoais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
